@@ -9,4 +9,4 @@ This is a project created in format of a landing page that shows the features of
 * Responsive layout
 * Modern design
 
-[Live demo](https://riltonfranzonee.github.io/natours-App/.)
+[Live demo](https://riltonfranzonee.github.io/natours-app/.)
